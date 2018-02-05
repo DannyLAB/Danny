@@ -1,0 +1,16 @@
+{shapes={
+  {5,0,6,7,5,8,texture="wool_colored_pink"},
+  {10,0,6,12,5,8,texture="wool_colored_pink"},
+  {5,0,14,7,5,16,texture="wool_colored_pink"},
+  {10,0,14,12,5,16,texture="wool_colored_pink"},
+  {7,7,2,10,9,1,texture="wool_colored_pink"},
+  {5,4,6,12,9,16,texture="wool_colored_pink"},
+  {6,7,3,11,12,7,texture="wool_colored_pink"},
+  {6,9,2,7,10,3,texture="wool_colored_white"},
+  {6,7,2,11,9,3,texture="wool_colored_pink"},
+  {7,9,2,8,10,3,texture="wool_colored_black"},
+  {8,9,2,9,10,3,texture="wool_colored_pink"},
+  {9,9,2,10,10,3,texture="wool_colored_black"},
+  {10,9,2,11,10,3,texture="wool_colored_white"},
+  {6,10,2,11,12,3,texture="wool_colored_pink"}
+}}
